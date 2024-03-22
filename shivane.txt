@@ -1,2 +1,0 @@
-shivane rana made this for the purpose of understanding git function using bash 
-
